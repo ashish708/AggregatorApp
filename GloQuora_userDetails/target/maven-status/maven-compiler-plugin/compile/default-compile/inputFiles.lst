@@ -1,0 +1,17 @@
+/home/ashish/git/GloQuora_userDetails/src/main/java/com/example/gloQuora/repository/GeoRepo.java
+/home/ashish/git/GloQuora_userDetails/src/main/java/com/example/gloQuora/model/Geo.java
+/home/ashish/git/GloQuora_userDetails/src/main/java/com/example/gloQuora/dto/ResponseDto.java
+/home/ashish/git/GloQuora_userDetails/src/main/java/com/example/gloQuora/model/Address.java
+/home/ashish/git/GloQuora_userDetails/src/main/java/com/example/gloQuora/dto/UserDto.java
+/home/ashish/git/GloQuora_userDetails/src/main/java/com/example/gloQuora/GloQuoraUserDetailsApplication.java
+/home/ashish/git/GloQuora_userDetails/src/main/java/com/example/gloQuora/repository/AddressRepo.java
+/home/ashish/git/GloQuora_userDetails/src/main/java/com/example/gloQuora/model/UserDetails.java
+/home/ashish/git/GloQuora_userDetails/src/main/java/com/example/gloQuora/dto/CompanyDto.java
+/home/ashish/git/GloQuora_userDetails/src/main/java/com/example/gloQuora/serviceImpl/UserServiceImpl.java
+/home/ashish/git/GloQuora_userDetails/src/main/java/com/example/gloQuora/dto/GeoDto.java
+/home/ashish/git/GloQuora_userDetails/src/main/java/com/example/gloQuora/model/Company.java
+/home/ashish/git/GloQuora_userDetails/src/main/java/com/example/gloQuora/dto/AddressDto.java
+/home/ashish/git/GloQuora_userDetails/src/main/java/com/example/gloQuora/repository/CompanyRepo.java
+/home/ashish/git/GloQuora_userDetails/src/main/java/com/example/gloQuora/repository/UserRepo.java
+/home/ashish/git/GloQuora_userDetails/src/main/java/com/example/gloQuora/service/UserService.java
+/home/ashish/git/GloQuora_userDetails/src/main/java/com/example/gloQuora/controller/UserController.java
